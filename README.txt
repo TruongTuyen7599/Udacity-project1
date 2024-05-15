@@ -11,4 +11,5 @@ index.html - The Index document for the website.
 
 
 http://my-129763756471-bucket.s3-website-us-east-1.amazonaws.com/
-https://d1d4kb7eo3516u.cloudfront.net/
+//INFORMATION PROJECT 1
+I have put my evidence image into  folder /img you can check thá
